@@ -11,7 +11,7 @@ Install dependencies
 Install-Module PANSIES -AllowClobber
 ```
 
-Install powerline
+Install *Powerline*
 
 ```Powershell
 Install-Module PowerLine
