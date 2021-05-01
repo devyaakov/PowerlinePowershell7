@@ -1,5 +1,6 @@
 # Powerline for Powershell 7
 
+Install *PowerShell*
 ```Powershell
 iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
 ```
